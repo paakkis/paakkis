@@ -1,4 +1,4 @@
-# [Juuso Paakkunainen]
+## Juuso Paakkunainen
 
 ![Associate reactive developer](os_ard.png)
 ![Alt text](scrumcert.png)
