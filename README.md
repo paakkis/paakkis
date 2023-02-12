@@ -1,7 +1,7 @@
 # [Juuso Paakkunainen]
 
-[![Associate reactive developer](os_ard.png)](https://www.outsystems.com/profile/cdtgomgxb)
-[![Alt text](scrumcert.png)]
+![Associate reactive developer](os_ard.png)](https://www.outsystems.com/profile/cdtgomgxb)
+![Alt text](scrumcert.png)
 
 ## Technologies
 
